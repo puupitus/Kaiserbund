@@ -704,130 +704,130 @@ SHL = {
 	color_ui = rgb { 51 51 255 }
 }
 BUR = {
-	color = rgb { 51 51 255 }
-	color_ui = rgb { 51 51 255 }
+	color = rgb { 50 51 255 }
+	color_ui = rgb { 50 51 255 }
 }
 RUS = {
-	color = rgb { 51 51 255 }
-	color_ui = rgb { 51 51 255 }
+	color = rgb { 49 51 255 }
+	color_ui = rgb { 49 51 255 }
 }
 KAR = {
-	color = rgb { 51 51 255 }
-	color_ui = rgb { 51 51 255 }
+	color = rgb { 48 51 255 }
+	color_ui = rgb { 48 51 255 }
 }
 ING = {
-	color = rgb { 51 51 255 }
-	color_ui = rgb { 51 51 255 }
+	color = rgb { 47 51 255 }
+	color_ui = rgb { 47 51 255 }
 }
 USG = {
-	color = rgb { 51 51 255 }
-	color_ui = rgb { 51 51 255 }
+	color = rgb { 46 51 255 }
+	color_ui = rgb { 46 51 255 }
 }
 NOV = {
-	color = rgb { 51 51 255 }
-	color_ui = rgb { 51 51 255 }
+	color = rgb { 45 51 255 }
+	color_ui = rgb { 45 51 255 }
 }
 MOU = {
-	color = rgb { 51 51 255 }
-	color_ui = rgb { 51 51 255 }
+	color = rgb { 44 51 255 }
+	color_ui = rgb { 44 51 255 }
 }
 IDE = {
-	color = rgb { 51 51 255 }
-	color_ui = rgb { 51 51 255 }
+	color = rgb { 43 51 255 }
+	color_ui = rgb { 43 51 255 }
 }
 KOK = {
-	color = rgb { 51 51 255 }
-	color_ui = rgb { 51 51 255 }
+	color = rgb { 42 51 255 }
+	color_ui = rgb { 42 51 255 }
 }
 GWI = {
-	color = rgb { 51 51 255 }
-	color_ui = rgb { 51 51 255 }
+	color = rgb { 41 51 255 }
+	color_ui = rgb { 41 51 255 }
 }
 FCA = {
-	color = rgb { 51 51 255 }
-	color_ui = rgb { 51 51 255 }
+	color = rgb { 40 51 255 }
+	color_ui = rgb { 40 51 255 }
 }
 BRS = {
-	color = rgb { 51 51 255 }
-	color_ui = rgb { 51 51 255 }
+	color = rgb { 39 51 255 }
+	color_ui = rgb { 39 51 255 }
 }
 HYD = {
-	color = rgb { 51 51 255 }
-	color_ui = rgb { 51 51 255 }
+	color = rgb { 38 51 255 }
+	color_ui = rgb { 38 51 255 }
 }
 JAK = {
-	color = rgb { 51 51 255 }
-	color_ui = rgb { 51 51 255 }
+	color = rgb { 37 51 255 }
+	color_ui = rgb { 37 51 255 }
 }
 MYS = {
-	color = rgb { 51 51 255 }
-	color_ui = rgb { 51 51 255 }
+	color = rgb { 36 51 255 }
+	color_ui = rgb { 36 51 255 }
 }
 BEN = {
-	color = rgb { 51 51 255 }
-	color_ui = rgb { 51 51 255 }
+	color = rgb { 35 51 255 }
+	color_ui = rgb { 35 51 255 }
 }
 TRA = {
-	color = rgb { 51 51 255 }
-	color_ui = rgb { 51 51 255 }
+	color = rgb { 34 51 255 }
+	color_ui = rgb { 34 51 255 }
 }
 AEI = {
-	color = rgb { 51 51 255 }
-	color_ui = rgb { 51 51 255 }
+	color = rgb { 33 51 255 }
+	color_ui = rgb { 33 51 255 }
 }
 GEA = {
-	color = rgb { 51 51 255 }
-	color_ui = rgb { 51 51 255 }
+	color = rgb { 32 51 255 }
+	color_ui = rgb { 32 51 255 }
 }
 IMP = {
-	color = rgb { 51 51 255 }
-	color_ui = rgb { 51 51 255 }
+	color = rgb { 31 51 255 }
+	color_ui = rgb { 31 51 255 }
 }
 MIT = {
-	color = rgb { 51 51 255 }
-	color_ui = rgb { 51 51 255 }
+	color = rgb { 30 51 255 }
+	color_ui = rgb { 30 51 255 }
 }
 USW = {
-	color = rgb { 51 51 255 }
-	color_ui = rgb { 51 51 255 }
+	color = rgb { 29 51 255 }
+	color_ui = rgb { 29 51 255 }
 }
 SEO = {
-	color = rgb { 51 51 255 }
-	color_ui = rgb { 51 51 255 }
+	color = rgb { 28 51 255 }
+	color_ui = rgb { 28 51 255 }
 }
 BAL = {
-	color = rgb { 51 51 255 }
-	color_ui = rgb { 51 51 255 }
+	color = rgb { 27 51 255 }
+	color_ui = rgb { 27 51 255 }
 }
 DEC = {
-	color = rgb { 51 51 255 }
-	color_ui = rgb { 51 51 255 }
+	color = rgb { 26 51 255 }
+	color_ui = rgb { 26 51 255 }
 }
 GWA = {
-	color = rgb { 51 51 255 }
-	color_ui = rgb { 51 51 255 }
+	color = rgb { 25 51 255 }
+	color_ui = rgb { 25 51 255 }
 }
 MDS = {
-	color = rgb { 51 51 255 }
-	color_ui = rgb { 51 51 255 }
+	color = rgb { 24 51 255 }
+	color_ui = rgb { 24 51 255 }
 }
 SIN = {
-	color = rgb { 51 51 255 }
-	color_ui = rgb { 51 51 255 }
+	color = rgb { 23 51 255 }
+	color_ui = rgb { 23 51 255 }
 }
 PUN = {
-	color = rgb { 51 51 255 }
-	color_ui = rgb { 51 51 255 }
+	color = rgb { 22 51 255 }
+	color_ui = rgb { 22 51 255 }
 }
 GUJ = {
-	color = rgb { 51 51 255 }
-	color_ui = rgb { 51 51 255 }
+	color = rgb { 21 51 255 }
+	color_ui = rgb { 21 51 255 }
 }
 BAR = {
-	color = rgb { 51 51 255 }
-	color_ui = rgb { 51 51 255 }
+	color = rgb { 20 51 255 }
+	color_ui = rgb { 20 51 255 }
 }
 KAT = {
-	color = rgb { 51 51 255 }
-	color_ui = rgb { 51 51 255 }
+	color = rgb { 19 51 255 }
+	color_ui = rgb { 19 51 255 }
 }

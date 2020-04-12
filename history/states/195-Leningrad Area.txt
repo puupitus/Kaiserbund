@@ -3,11 +3,11 @@ state={
 	id=195
 	name="STATE_195"
 	manpower = 3750158
-	
+
 	state_category = metropolis
 
 	history={
-		owner = SOV
+		owner = ING
 		victory_points = {
 			3151 30.0
 		}
@@ -31,6 +31,6 @@ state={
 	}
 
 	provinces={
-		79 149 3151 6174 11068 
+		79 149 3151 6174 11068
 	}
 }
