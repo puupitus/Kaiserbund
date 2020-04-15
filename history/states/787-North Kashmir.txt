@@ -2,14 +2,14 @@ state={
 	id=787
 	name="STATE_787" # Northern Kashmir
 	manpower = 1415800
-	
+
 	state_category = rural
 
 	history={
 		victory_points = {
 			1910 1
 		}
-		owner = RAJ
+		owner = JAK
 		buildings = {
 			infrastructure = 2
 		}
@@ -19,6 +19,6 @@ state={
 	}
 
 	provinces={
-		1910 2041 2084 10821 
+		1910 2041 2084 10821
 	}
 }

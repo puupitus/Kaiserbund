@@ -7,7 +7,7 @@ state={
 	}
 
 	history={
-		owner = USG
+		owner = GAL
 		victory_points = {
 			9427 20
 		}

@@ -6,7 +6,7 @@ state={
 	impassable = yes
 
 	history={
-		owner = GER
+		owner = MIT
 		add_core_of = NGR
 		buildings = {
 			infrastructure = 1

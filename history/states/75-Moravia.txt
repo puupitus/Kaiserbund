@@ -10,7 +10,7 @@ state={
 	state_category = city
 
 	history={
-		owner = USG
+		owner = CZE
 		victory_points = {
 			3569 20
 		}
@@ -32,6 +32,6 @@ state={
 	}
 
 	provinces={
-		569 3553 3569 6562 6576 6590 11511 
+		569 3553 3569 6562 6576 6590 11511
 	}
 }

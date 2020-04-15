@@ -831,3 +831,19 @@ KAT = {
 	color = rgb { 19 51 255 }
 	color_ui = rgb { 19 51 255 }
 }
+SAR = {
+	color = rgb { 18 51 255 }
+	color_ui = rgb { 18 51 255 }
+}
+LOM = {
+	color = rgb { 17 51 255 }
+	color_ui = rgb { 17 51 255 }
+}
+TEM = {
+	color = rgb { 16 51 255 }
+	color_ui = rgb { 16 51 255 }
+}
+GAL = {
+	color = rgb { 15 51 255 }
+	color_ui = rgb { 15 51 255 }
+}
