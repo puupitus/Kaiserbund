@@ -879,3 +879,7 @@ PBA = {
 	color = rgb { 7 51 255 }
 	color_ui = rgb { 7 51 255 }
 }
+SAO = {
+	color = rgb { 6 51 255 }
+	color_ui = rgb { 6 51 255 }
+}

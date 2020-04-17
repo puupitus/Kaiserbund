@@ -6,7 +6,7 @@ state={
 	state_category = city
 
 	history={
-		owner = BRA
+		owner = SAO
 		add_core_of = BRA
 		buildings = {
 			arms_factory = 1
@@ -15,7 +15,7 @@ state={
 			5112 = {
 				naval_base = 4
 			}
-		}		
+		}
 		victory_points = {
 			10513 20
 		}
