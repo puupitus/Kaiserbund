@@ -5,7 +5,7 @@ state={
 
 	state_category = rural
 	history = {
-		owner = SUD
+		owner = OTT
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1

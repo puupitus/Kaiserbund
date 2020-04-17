@@ -10,7 +10,7 @@ state={
 	}
 
 	history={
-		owner = RUS
+		owner = MOS
 		victory_points = {
 			6380 50 
 		}
