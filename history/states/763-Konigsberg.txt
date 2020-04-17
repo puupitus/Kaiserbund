@@ -6,11 +6,10 @@ state={
 	state_category = city
 
 	history={
-		owner = GER
-		controller = GER
-		
+		owner = GEM
+
 		victory_points = {
-			6332 10 
+			6332 10
 		}
 
 		buildings = {

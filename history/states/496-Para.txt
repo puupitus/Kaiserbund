@@ -3,15 +3,15 @@ state={
 	id=496
 	name="STATE_496" # Minas Gerais
 	manpower = 4603600
-	
+
 	state_category = town
-	
+
 	resources={
 		steel=3 # was: 4
 	}
 
 	history={
-		owner = BRA
+		owner = MIN
 		victory_points = {
 			7476 3
 		}

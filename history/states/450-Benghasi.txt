@@ -7,7 +7,7 @@ state={
 	state_category = enclave
 
 	history={
-		owner = TUR
+		owner = OTT
 
 		victory_points = {
 			11954 3

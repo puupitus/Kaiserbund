@@ -7,7 +7,7 @@ state={
 
 	history={
 		add_core_of = BAS
-		owner = GWI
+		owner = GEM
 		buildings = {
 			infrastructure = 4
 			4450 = {

@@ -4,7 +4,7 @@ state={
 
 	history={
 		add_core_of = PNG
-		owner = GER
+		owner = GEM
 		buildings = {
 			infrastructure = 2
 			air_base = 1

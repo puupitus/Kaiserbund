@@ -9,7 +9,7 @@ state={
 	}
 
 	history={
-		owner = MIT
+		owner = GEM
 		buildings = {
 			infrastructure = 2
 
