@@ -141,7 +141,7 @@ CAN = {
 	color = rgb { 119 48 39 }
 	color_ui = rgb { 119 48 39 }
 }
-CHI = {
+GXC = {
 	color = rgb { 19 131 207 }
 	color_ui = rgb { 19 131 207 }
 }
@@ -234,8 +234,8 @@ SIA = {
 	color_ui = rgb { 222 247 198 }
 }
 SIK = {
-	color = rgb { 71 190 152 }
-	color_ui = rgb { 222 247 198 }
+	color = rgb { 128 232 229 }
+	color_ui = rgb { 128 232 229 }
 }
 TIB = {
 	color = rgb { 80 115 45}
@@ -287,11 +287,11 @@ HAI = {
 	color_ui = rgb { 174 113 113 }
 }
 YEM = {
-	color = rgb { 155 101 107 }
+	color = rgb { 135 81 87 }
 	color_ui = rgb { 202 131 139 }
 }
 OMA = {
-	color = rgb { 155 101 107 }
+	color = rgb { 175 121 127 }
 	color_ui = rgb { 202 131 139 }
 }
 SLO = {
@@ -313,9 +313,9 @@ PRC = {
 	color_ui = rgb { 178 34 60 }
 }
 
-GXC = {
-	color = rgb { 71 113 97 }
-	color_ui = rgb { 71 113 97 }
+CHI = {
+	color = rgb { 176 129 28 }
+	color_ui = rgb { 176 129 28 }
 }
 
 SHX = {
@@ -899,7 +899,7 @@ MOR = {
 	color = rgb { 122 13 13 }
 	color_ui = rgb { 122 13 13 }
 }
-TMS = {
+UZB = {
 	color = rgb { 19 217 15 }
 	color_ui = rgb { 19 217 15 }
 }
@@ -922,4 +922,8 @@ CRI = {
 KUB = {
 	color = rgb { 201 38 120 }
 	color_ui = rgb { 201 38 120 }
+}
+TMS = {
+	color = rgb { 211 245 244 }
+	color_ui = rgb { 211 245 244 }
 }
