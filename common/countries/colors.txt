@@ -719,10 +719,6 @@ ING = {
 	color = rgb { 173 181 20 }
 	color_ui = rgb { 173 181 20 }
 }
-USG = {
-	color = rgb { 125 125 6 }
-	color_ui = rgb { 125 125 6 }
-}
 NOV = {
 	color = rgb { 8 50 158 }
 	color_ui = rgb { 8 50 158 }
@@ -738,10 +734,6 @@ IDE = {
 KOK = {
 	color = rgb { 15 54 209 }
 	color_ui = rgb { 15 54 209 }
-}
-GWI = {
-	color = rgb { 41 51 255 }
-	color_ui = rgb { 41 51 255 }
 }
 FCA = {
 	color = rgb { 30 174 214 }
@@ -771,10 +763,6 @@ TRA = {
 	color = rgb { 163 64 64 }
 	color_ui = rgb { 163 64 64 }
 }
-AEI = {
-	color = rgb { 33 51 255 }
-	color_ui = rgb { 33 51 255 }
-}
 GEA = {
 	color = rgb { 32 51 255 }
 	color_ui = rgb { 32 51 255 }
@@ -786,10 +774,6 @@ IMP = {
 MIT = {
 	color = rgb { 30 51 255 }
 	color_ui = rgb { 30 51 255 }
-}
-USW = {
-	color = rgb { 75 224 67 }
-	color_ui = rgb { 75 224 67 }
 }
 SEO = {
 	color = rgb { 25 25 25 }
@@ -807,10 +791,6 @@ GWA = {
 	color = rgb { 235 175 12 }
 	color_ui = rgb { 235 175 12 }
 }
-MDS = {
-	color = rgb { 81 232 26 }
-	color_ui = rgb { 81 232 26 }
-}
 SIN = {
 	color = rgb { 36 115 8 }
 	color_ui = rgb { 36 115 8 }
@@ -826,10 +806,6 @@ GUJ = {
 BAR = {
 	color = rgb { 28 133 186 }
 	color_ui = rgb { 28 133 186 }
-}
-KAT = {
-	color = rgb { 194 33 8 }
-	color_ui = rgb { 194 33 8 }
 }
 SAR = {
 	color = rgb { 6 9 158 }

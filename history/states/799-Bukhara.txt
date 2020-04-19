@@ -1,0 +1,18 @@
+
+state={
+	id=799
+	name="STATE_799"
+	history={
+		owner = UZB
+		add_core_of = UZB
+		buildings = {
+		}
+		victory_points = {
+		}
+	}
+	provinces={
+		1479 1532 1554 1576 1614 1623 1721 4488 4499 4618 7501 7507 10420 10470 12161 12471
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,23 @@
+
+state={
+	id=816
+	name="STATE_816"
+
+	history={
+		owner = SUD
+		add_core_of = SUD
+		buildings = {
+
+		}
+		victory_points = {
+
+		}
+
+	}
+
+	provinces={
+		1960 5060 8052 10739 10857 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

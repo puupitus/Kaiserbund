@@ -1,33 +1,34 @@
 
 state={
 	id=17
-	name="STATE_17" # Lorraine
-	manpower = 1517500
-
-	state_category = city
-
+	name="STATE_17"
 	resources={
-		steel=28 # was: 48
+		steel=28.000
 	}
 
 	history={
 		owner = BUR
 		victory_points = {
-			9642 5
+			9642 5 
 		}
 		victory_points = {
-			11516 5
+			11516 5 
 		}
 		buildings = {
 			infrastructure = 7
 			industrial_complex = 1
 			air_base = 5
+
 		}
 		add_core_of = FRA
 		add_core_of = OCC
+
 	}
 
 	provinces={
-		521 698 3646 3666 6698 9642 9658 11488 11516 11642
+		521 641 680 698 817 3646 3650 3652 3666 6639 6668 6698 9590 9642 9658 11488 11516 11642 
 	}
+	manpower=1517500
+	buildings_max_level_factor=1.000
+	state_category=city
 }

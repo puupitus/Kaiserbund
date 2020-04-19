@@ -1,0 +1,18 @@
+
+state={
+	id=809
+	name="STATE_809"
+	history={
+		owner = ETH
+		add_core_of = ETH
+		buildings = {
+		}
+		victory_points = {
+		}
+	}
+	provinces={
+		4995 7980 8062 10775 12714 12757 12812
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

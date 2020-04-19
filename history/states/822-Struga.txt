@@ -1,0 +1,23 @@
+
+state={
+	id=822
+	name="STATE_822"
+
+	history={
+		owner = BUL
+		add_core_of = MAC
+		buildings = {
+
+		}
+		victory_points = {
+
+		}
+
+	}
+
+	provinces={
+		833 867 11856 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

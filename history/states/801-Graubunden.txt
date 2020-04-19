@@ -1,0 +1,18 @@
+
+state={
+	id=801
+	name="STATE_801"
+	history={
+		owner = AUS
+		add_core_of = SWI
+		buildings = {
+		}
+		victory_points = {
+		}
+	}
+	provinces={
+		658 3660 3662
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

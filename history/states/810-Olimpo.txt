@@ -1,0 +1,18 @@
+
+state={
+	id=810
+	name="STATE_810"
+	history={
+		owner = BOL
+		add_core_of = BOL
+		buildings = {
+		}
+		victory_points = {
+		}
+	}
+	provinces={
+		2195 5165 8203 10973
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

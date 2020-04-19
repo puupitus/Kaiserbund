@@ -1,0 +1,18 @@
+
+state={
+	id=819
+	name="STATE_819"
+	history={
+		owner = LOM
+		add_core_of = SWI
+		buildings = {
+		}
+		victory_points = {
+		}
+	}
+	provinces={
+		3641 9600
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

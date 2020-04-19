@@ -1,0 +1,18 @@
+
+state={
+	id=817
+	name="STATE_817"
+	history={
+		owner = GEM
+		add_core_of = DEN
+		buildings = {
+		}
+		victory_points = {
+		}
+	}
+	provinces={
+		332 11251
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

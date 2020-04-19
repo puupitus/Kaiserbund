@@ -1,0 +1,18 @@
+
+state={
+	id=803
+	name="STATE_803"
+	history={
+		owner = BUR
+		add_core_of = SWI
+		buildings = {
+		}
+		victory_points = {
+		}
+	}
+	provinces={
+		6666 6683 9622 13124
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

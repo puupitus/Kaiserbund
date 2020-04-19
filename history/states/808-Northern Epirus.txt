@@ -1,0 +1,18 @@
+
+state={
+	id=808
+	name="STATE_808"
+	history={
+		owner = GRE
+		add_core_of = GRE
+		buildings = {
+		}
+		victory_points = {
+		}
+	}
+	provinces={
+		841 3914 9805 9837 10203
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

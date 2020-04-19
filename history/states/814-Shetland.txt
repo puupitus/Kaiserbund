@@ -1,0 +1,17 @@
+state={
+	id=814
+	name="STATE_814"
+	history={
+		owner = BRC
+		add_core_of = SCO
+		buildings = {
+		}
+		victory_points = {
+		}
+	}
+	provinces={
+		6196
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}
