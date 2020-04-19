@@ -4,10 +4,10 @@ state={
 	name="STATE_424" # Madras
 	manpower = 15791700
 	state_category = rural
-	
+
 
 	history={
-		owner = MDS
+		owner = RAJ
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 1
