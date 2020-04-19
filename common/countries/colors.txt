@@ -707,7 +707,7 @@ BUR = {
 	color = rgb { 115 5 36 }
 	color_ui = rgb { 115 5 36 }
 }
-RUS = {
+MOS = {
 	color = rgb { 7 105 19 }
 	color_ui = rgb { 7 105 19 }
 }
@@ -907,7 +907,7 @@ SIB = {
 	color = rgb { 50 237 75 }
 	color_ui = rgb { 50 237 75 }
 }
-MOS = {
+RUS = {
 	color = rgb { 97 60 28 }
 	color_ui = rgb { 97 60 28 }
 }
