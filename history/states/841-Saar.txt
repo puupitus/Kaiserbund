@@ -1,0 +1,20 @@
+state={
+	id=841
+	name="STATE_841"
+	history={
+		owner = GEM
+		add_core_of = GEM
+		buildings = {
+
+		}
+		victory_points = {
+
+		}
+
+	}
+	provinces={
+		11531
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

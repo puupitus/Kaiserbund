@@ -1,0 +1,23 @@
+
+state={
+	id=832
+	name="STATE_832"
+
+	history={
+		owner = CRO
+		add_core_of = MNT
+		buildings = {
+
+		}
+		victory_points = {
+
+		}
+
+	}
+
+	provinces={
+		6913 9809
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

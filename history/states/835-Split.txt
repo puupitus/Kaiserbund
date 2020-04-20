@@ -1,0 +1,23 @@
+
+state={
+	id=835
+	name="STATE_835"
+
+	history={
+		owner = CRO
+		add_core_of = CRO
+		buildings = {
+
+		}
+		victory_points = {
+
+		}
+
+	}
+
+	provinces={
+		3868 3924 6889 11816 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

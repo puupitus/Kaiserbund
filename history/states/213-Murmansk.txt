@@ -10,7 +10,7 @@ state={
 	}
 
 	history={
-		owner = SWE
+		owner = MOS
 		victory_points = {
 			3134 5
 		}

@@ -7,7 +7,7 @@ state={
 	}
 
 	history={
-		owner = FRA
+		owner = BUR
 		victory_points = {
 			3652 5 
 		}
@@ -29,7 +29,7 @@ state={
 	}
 
 	provinces={
-		648 667 3506 3669 3681 9490 9609 9625 9644 11628 
+		551 680 3533 3652 3669 6531 9490 11732 
 	}
 	manpower=1370800
 	buildings_max_level_factor=1.000

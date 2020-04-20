@@ -1,0 +1,23 @@
+
+state={
+	id=836
+	name="STATE_836"
+
+	history={
+		owner = SWE
+		add_core_of = KAR
+		buildings = {
+
+		}
+		victory_points = {
+
+		}
+
+	}
+
+	provinces={
+		80 157 2998 6098 6175 9074 9119 11054 11096 11146 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,23 @@
+
+state={
+	id=830
+	name="STATE_830"
+
+	history={
+		owner = DEN
+		add_core_of = DEN
+		buildings = {
+
+		}
+		victory_points = {
+
+		}
+
+	}
+
+	provinces={
+		10245 12512 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,23 @@
+
+state={
+	id=827
+	name="STATE_827"
+
+	history={
+		owner = BRA
+		add_core_of = BRA
+		buildings = {
+
+		}
+		victory_points = {
+
+		}
+
+	}
+
+	provinces={
+		11010 12939 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

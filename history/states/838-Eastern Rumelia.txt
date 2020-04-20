@@ -1,0 +1,23 @@
+
+state={
+	id=838
+	name="STATE_838"
+
+	history={
+		owner = BUL
+		add_core_of = BUL
+		buildings = {
+
+		}
+		victory_points = {
+
+		}
+
+	}
+
+	provinces={
+		878 893 6814 6923 6952 6967 9862 9888 9902 9919 11813 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}
