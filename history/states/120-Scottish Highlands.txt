@@ -10,7 +10,7 @@ state={
 
 	history={
 		add_core_of = SCO
-		owner = BRC
+		owner = IMP
 		victory_points = {
 			11064 1 
 		}

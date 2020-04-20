@@ -16,7 +16,7 @@ SWE = {
 	color = rgb { 36 132 247 }
 	color_ui = rgb { 47 172 255 }
 }
-FRA = {
+BUR = {
 	color = rgb { 37 93 208 }
 	color_ui = rgb { 74 147 255 }
 }
@@ -69,7 +69,7 @@ SER = {
 	color = rgb { 72 73 126 }
 	color_ui = rgb { 94 95 164 }
 }
-SWI = {
+FRA = {
 	color = rgb { 224 5 5 }
 	color_ui = rgb { 193 81 81 }
 }
@@ -703,7 +703,7 @@ SHL = {
 	color = rgb { 51 51 255 }
 	color_ui = rgb { 51 51 255 }
 }
-BUR = {
+SWI = {
 	color = rgb { 115 5 36 }
 	color_ui = rgb { 115 5 36 }
 }
@@ -816,8 +816,8 @@ LOM = {
 	color_ui = rgb { 6 158 77 }
 }
 TEM = {
-	color = rgb { 211 188 33 }
-	color_ui = rgb { 211 188 33 }
+	color = rgb { 231 208 53 }
+	color_ui = rgb { 231 208 53 }
 }
 GAL = {
 	color = rgb { 245 181 174 }

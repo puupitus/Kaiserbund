@@ -10,7 +10,7 @@ state={
 	}
 
 	history={
-		owner = BRC
+		owner = IMP
 		buildings = {
 			infrastructure = 8
 			arms_factory = 2
