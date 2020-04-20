@@ -17,8 +17,8 @@ SWE = {
 	color_ui = rgb { 47 172 255 }
 }
 BUR = {
-	color = rgb { 37 93 208 }
-	color_ui = rgb { 74 147 255 }
+	color = rgb { 180 180 200 }
+	color_ui = rgb { 180 180 200 }
 }
 LUX = {
 	color = rgb { 65 175 179 }
@@ -89,7 +89,7 @@ NOR = {
 	color = rgb { 111 71 71 }
 	color_ui = rgb { 144 92 92 }
 }
-DEN = {
+BRC = {
 	color = rgb { 153 116 93 }
 	color_ui = rgb { 199 151 121 }
 }
@@ -767,7 +767,7 @@ GEA = {
 	color = rgb { 32 51 255 }
 	color_ui = rgb { 32 51 255 }
 }
-IMP = {
+DEN = {
 	color = rgb { 170 10 10 }
 	color_ui = rgb { 170 10 10 }
 }
@@ -831,7 +831,7 @@ GEM = {
 	color = rgb { 85 85 85 }
 	color_ui = rgb { 85 85 85 }
 }
-BRC = {
+IMP = {
 	color = rgb { 201 56 93 }
 	color_ui = rgb { 201 56 93 }
 }
@@ -902,4 +902,8 @@ KUB = {
 TMS = {
 	color = rgb { 211 245 244 }
 	color_ui = rgb { 211 245 244 }
+}
+DON = {
+	color = rgb { 212 189 17 }
+	color_ui = rgb { 212 189 17 }
 }

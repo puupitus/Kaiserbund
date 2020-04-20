@@ -4,7 +4,7 @@ state={
 	name="STATE_397"
 
 	history={
-		owner = RUS
+		owner = MOS
 		buildings = {
 			infrastructure = 2
 
@@ -14,7 +14,7 @@ state={
 	}
 
 	provinces={
-		1295 3155 4298 7330 7712 7898 9225 10579 11200 12558 
+		1295 3155 4298 7330 7712 7898 9225 10579 11200 12558
 	}
 	manpower=137203
 	buildings_max_level_factor=1.000
