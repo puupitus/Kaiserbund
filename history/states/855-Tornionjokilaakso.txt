@@ -1,0 +1,23 @@
+
+state={
+	id=855
+	name="STATE_855"
+
+	history={
+		owner = SWE
+		add_core_of = FIN
+		buildings = {
+
+		}
+		victory_points = {
+
+		}
+
+	}
+
+	provinces={
+		124 3055 3193 11115 11125 11130 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

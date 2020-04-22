@@ -7,17 +7,17 @@ state={
 	}
 
 	history={
-		owner = BRA
+		owner = AMZ
 		buildings = {
 			infrastructure = 0
 
 		}
-		add_core_of = BRA
+		add_core_of = AMZ
 
 	}
 
 	provinces={
-		4980 5083 5232 8185 8254 10934 12919 12965 13083 
+		4980 5083 5232 8185 8254 10934 12919 12965 13083
 	}
 	manpower=979900
 	buildings_max_level_factor=1.000

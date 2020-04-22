@@ -1,0 +1,23 @@
+
+state={
+	id=843
+	name="STATE_843"
+
+	history={
+		owner = CEA
+		add_core_of = CEA
+		buildings = {
+
+		}
+		victory_points = {
+
+		}
+
+	}
+
+	provinces={
+		2132 2164 2178 5107 8179 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

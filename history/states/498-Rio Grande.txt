@@ -4,7 +4,7 @@ state={
 	name="STATE_498"
 
 	history={
-		owner = BRS
+		owner = RGN
 		buildings = {
 			infrastructure = 5
 			industrial_complex = 6
@@ -19,7 +19,7 @@ state={
 			}
 
 		}
-		add_core_of = BRA
+		add_core_of = RGN
 		victory_points = {
 			5107 3 
 		}
@@ -30,7 +30,7 @@ state={
 	}
 
 	provinces={
-		1524 2132 2164 2175 2178 2228 5107 5153 5168 5182 5204 8179 8227 10345 10933 10939 10967 10984 10998 12961 
+		2175 2228 5107 5168 10933 
 	}
 	manpower=7746000
 	buildings_max_level_factor=1.000

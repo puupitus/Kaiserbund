@@ -907,3 +907,83 @@ DON = {
 	color = rgb { 212 189 17 }
 	color_ui = rgb { 212 189 17 }
 }
+ACR = {
+	color = rgb { 240 20 120 }
+	color_ui = rgb { 240 20 120 }
+}
+ALA = {
+	color = rgb { 220 40 140 }
+	color_ui = rgb { 220 40 140 }
+}
+AMA = {
+	color = rgb { 200 60 100 }
+	color_ui = rgb { 200 60 100 }
+}
+AMZ = {
+	color = rgb { 180 80 80 }
+	color_ui = rgb { 180 80 80 }
+}
+BHI = {
+	color = rgb { 160 100 60 }
+	color_ui = rgb { 160 100 60 }
+}
+CEA = {
+	color = rgb { 140 120 40 }
+	color_ui = rgb { 140 120 40 }
+}
+ESP = {
+	color = rgb { 120 140 20 }
+	color_ui = rgb { 120 140 20 }
+}
+GOI = {
+	color = rgb { 20 140 120 }
+	color_ui = rgb { 20 140 120 }
+}
+GPO = {
+	color = rgb { 40 160 140 }
+	color_ui = rgb { 40 160 140 }
+}
+IGU = {
+	color = rgb { 60 180 100 }
+	color_ui = rgb { 60 180 100 }
+}
+MAR = {
+	color = rgb { 80 200 80 }
+	color_ui = rgb { 80 200 80 }
+}
+MGO = {
+	color = rgb { 100 220 60 }
+	color_ui = rgb { 100 220 60 }
+}
+PEB = {
+	color = rgb { 120 240 40 }
+	color_ui = rgb { 120 240 40 }
+}
+PIA = {
+	color = rgb { 240 120 40 }
+	color_ui = rgb { 240 120 40 }
+}
+POP = {
+	color = rgb { 220 140 60 }
+	color_ui = rgb { 220 140 60 }
+}
+PRA = {
+	color = rgb { 200 160 80 }
+	color_ui = rgb { 200 160 80 }
+}
+RBR = {
+	color = rgb { 180 180 100 }
+	color_ui = rgb { 180 180 100 }
+}
+RGN = {
+	color = rgb { 160 200 120 }
+	color_ui = rgb { 160 200 120 }
+}
+RIO = {
+	color = rgb { 140 220 140 }
+	color_ui = rgb { 140 220 140 }
+}
+SGP = {
+	color = rgb { 120 240 160 }
+	color_ui = rgb { 120 240 160 }
+}

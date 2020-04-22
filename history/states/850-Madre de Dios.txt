@@ -1,0 +1,23 @@
+
+state={
+	id=850
+	name="STATE_850"
+
+	history={
+		owner = PRU
+		add_core_of = PRU
+		buildings = {
+
+		}
+		victory_points = {
+
+		}
+
+	}
+
+	provinces={
+		8191 10940 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

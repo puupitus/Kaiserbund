@@ -7,7 +7,7 @@ state={
 
 	history={
 		add_core_of = GDL
-		owner = FRA
+		owner = GEM
 		victory_points = {
 			9377 1
 		}
@@ -22,8 +22,8 @@ state={
 			}
 		}
 	}
-	
+
 	provinces={
-		177 9377 13084 
+		177 9377 13084
 	}
 }

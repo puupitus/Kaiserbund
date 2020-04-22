@@ -4,17 +4,17 @@ state={
 	name="STATE_504"
 
 	history={
-		owner = BRA
+		owner = POP
 		buildings = {
 			infrastructure = 2
 
 		}
-		add_core_of = BRA
+		add_core_of = POP
 
 	}
 
 	provinces={
-		5200 8224 12951 
+		5200 8224 12951
 	}
 	manpower=229900
 	buildings_max_level_factor=1.000

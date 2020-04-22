@@ -1,0 +1,23 @@
+
+state={
+	id=852
+	name="STATE_852"
+
+	history={
+		owner = ARG
+		add_core_of = ARG
+		buildings = {
+
+		}
+		victory_points = {
+
+		}
+
+	}
+
+	provinces={
+		2224 8195 10944 10965 11001 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

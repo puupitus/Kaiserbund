@@ -1,0 +1,23 @@
+
+state={
+	id=846
+	name="STATE_846"
+
+	history={
+		owner = PEB
+		add_core_of = PEB
+		buildings = {
+
+		}
+		victory_points = {
+
+		}
+
+	}
+
+	provinces={
+		1446 5168 8227 10345 10967 12961 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

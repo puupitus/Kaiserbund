@@ -1,0 +1,23 @@
+
+state={
+	id=851
+	name="STATE_851"
+
+	history={
+		owner = MGO
+		add_core_of = MGO
+		buildings = {
+
+		}
+		victory_points = {
+
+		}
+
+	}
+
+	provinces={
+		2181 8189 10959 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

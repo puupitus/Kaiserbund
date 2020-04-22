@@ -1,0 +1,21 @@
+
+state={
+	id=845
+	name="STATE_845"
+	history={
+		owner = IGU
+		add_core_of = IGU
+		buildings = {
+
+		}
+		victory_points = {
+
+		}
+
+	}
+	provinces={
+		5178 12466
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

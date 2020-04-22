@@ -1,0 +1,21 @@
+
+state={
+	id=848
+	name="STATE_848"
+	history={
+		owner = SGP
+		add_core_of = SGP
+		buildings = {
+
+		}
+		victory_points = {
+
+		}
+
+	}
+	provinces={
+		1524 8143
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

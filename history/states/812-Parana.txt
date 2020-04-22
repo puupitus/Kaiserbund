@@ -2,16 +2,21 @@
 state={
 	id=812
 	name="STATE_812"
+
 	history={
 		owner = PNA
 		add_core_of = PNA
 		buildings = {
+
 		}
 		victory_points = {
+
 		}
+
 	}
+
 	provinces={
-		2109 4587 5178 8181 8239
+		2109 4587 8181 8239 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000
