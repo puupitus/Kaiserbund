@@ -1,11 +1,10 @@
 
 state={
-	id=808
-	name="STATE_808"
-
+	id=857
+	name="STATE_857"
 	history={
-		owner = GRE
-		add_core_of = GRE
+		owner = BUL
+		add_core_of = BUL
 		buildings = {
 
 		}
@@ -14,9 +13,8 @@ state={
 		}
 
 	}
-
 	provinces={
-		841 3914 9805 10203 
+		657 687 3076 9635
 	}
 	manpower=0
 	buildings_max_level_factor=1.000
