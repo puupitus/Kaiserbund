@@ -4,9 +4,9 @@ state={
 
 	history={
 		add_core_of = BAN
-		owner = IMP
+		owner = BAN
 		victory_points = {
-			11929 1 
+			11929 1
 		}
 		buildings = {
 			infrastructure = 5

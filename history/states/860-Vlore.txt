@@ -1,16 +1,22 @@
+
 state={
-	id=814
-	name="STATE_814"
+	id=860
+	name="STATE_860"
+
 	history={
-		owner = DEN
-		add_core_of = SCO
+		owner = ALB
+		add_core_of = ALB
 		buildings = {
+
 		}
 		victory_points = {
+
 		}
+
 	}
+
 	provinces={
-		6196
+		914 11767 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

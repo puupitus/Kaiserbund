@@ -1,16 +1,22 @@
+
 state={
-	id=814
-	name="STATE_814"
+	id=859
+	name="STATE_859"
+
 	history={
-		owner = DEN
-		add_core_of = SCO
+		owner = MOU
+		add_core_of = MOU
 		buildings = {
+
 		}
 		victory_points = {
+
 		}
+
 	}
+
 	provinces={
-		6196
+		672 11599 11617 11647 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000
